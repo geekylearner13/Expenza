@@ -4,7 +4,6 @@ import Feature from "./Feature";
 import HeroSection from "./HeroSection";
 import ExpenseForm from "./ExpenseForm";
 import ExpenseList from "./ExpenseList";
-import Footer from "./Footer";
 function App(){
     const[items,setItems] = React.useState([]);
     const[sum,SetSum] = React.useState("");
