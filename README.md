@@ -1,3 +1,6 @@
+# Expenza
+**Hosted Link** :- https://expenza13.netlify.app/
+
 Welcome to Expenza: Your Ultimate Expense Tracker
 
 Managing your finances has never been easier. With BudgetBuddy, you can effortlessly track your expenses, set budgets, and achieve your financial goals. Our platform is designed to provide you with a seamless and intuitive experience, ensuring you stay on top of your finances.
